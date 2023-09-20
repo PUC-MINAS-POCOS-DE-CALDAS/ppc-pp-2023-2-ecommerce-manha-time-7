@@ -1,6 +1,7 @@
 # Membro do Grupo
 Danilo Cagnacci Moraes
 
+<img src="danilocagnacci.jfif" height="200" width="200">
 
 # Atividades da disciplina E-commerce
 
