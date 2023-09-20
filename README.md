@@ -1,3 +1,7 @@
+# Membro do Grupo
+Danilo Cagnacci Moraes
+
+
 # Atividades da disciplina E-commerce
 
 Olá, pessoal. Tudo bem?
